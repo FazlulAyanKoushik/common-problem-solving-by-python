@@ -21,10 +21,10 @@ Welcome to the **Common Problem Solving by Python** repository! This repository 
 This repository includes a variety of coding problems and solutions across different categories. Each script includes the problem statement, solution, and comments explaining the code.
 
 ## Arrays and Strings
-- **Find the missing number in an array of integers:** [Script](src/arrays_strings/find_missing_number.py)
-- **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)
-- **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)
-- **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)
+- **Find the missing number in an array of integers:** [Script](src/arrays_strings/find_missing_number.py)  ✔️
+- **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)  ✔️
+- **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)  ✔️
+- **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✔️
 - **Implement an algorithm to reverse a linked list:** [Script](arrays_strings/reverse_linked_list.py)
 - **Merge two sorted arrays:** [Script](arrays_strings/merge_sorted_arrays.py)
 - **Implement a stack using arrays/linked list:** [Script](arrays_strings/stack.py)

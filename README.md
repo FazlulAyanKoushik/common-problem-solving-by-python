@@ -25,10 +25,12 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)  ✅
 - **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)  ✅
 - **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✅
+- **Two numbers in the list whose sum equals 'n':** [Script](src/arrays_strings/sum_equal_of_n.py) ✅
 - **Implement an algorithm to reverse a linked list:** [Script](arrays_strings/reverse_linked_list.py)
 - **Merge two sorted arrays:** [Script](arrays_strings/merge_sorted_arrays.py)
 - **Implement a stack using arrays/linked list:** [Script](arrays_strings/stack.py)
 - **Remove duplicates from a sorted array:** [Script](arrays_strings/remove_duplicates_sorted_array.py)
+
 
 ## Linked Lists
 

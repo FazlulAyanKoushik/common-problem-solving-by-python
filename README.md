@@ -25,7 +25,6 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)  ✅
 - **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)  ✅
 - **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✅
-- **Two numbers in the list whose sum equals 'n':** [Script](src/arrays_strings/sum_equal_of_n.py) ✅
 - **Implement an algorithm to reverse a linked list:** [Script](arrays_strings/reverse_linked_list.py)
 - **Merge two sorted arrays:** [Script](arrays_strings/merge_sorted_arrays.py)
 - **Implement a stack using arrays/linked list:** [Script](arrays_strings/stack.py)
@@ -81,6 +80,11 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time:** [Script](miscellaneous/stack_min_constant_time.py)
 - **Design a data structure that supports insert, delete, getRandom() operations in constant time:** [Script](miscellaneous/design_randomized_structure.py)
 - **Check if a Sudoku is valid:** [Script](miscellaneous/valid_sudoku.py)
+
+## LeetCode Problems 
+- **Two Sum:** [Script](src/leetcode/two_sum.py) ✅
+- **Three Sum:** [Script](src/leetcode/three_sum.py) ✅
+- **Longest substring without repeating characters:** [Script](src/leetcode/longest_substring_without_repeating_characters.py) ✅
 
 ## How to Contribute
 

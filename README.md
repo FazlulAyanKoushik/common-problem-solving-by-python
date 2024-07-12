@@ -22,6 +22,9 @@ This repository includes a variety of coding problems and solutions across diffe
 
 ## Arrays and Strings
 - **Find the missing number in an array of integers:** [Script](src/arrays_strings/find_missing_number.py)  ✅
+- **Find the missing number in an array of integers 2:** [Script](src/arrays_strings/find_missing_number_2.py)  ✅
+- **Find the first missing positive integer in an array:** [Script](src/arrays_strings/first_missing_positive.py)  ✅
+- **Find majority element in an array:** [Script](src/arrays_strings/majority_element.py)  ✅
 - **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)  ✅
 - **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)  ✅
 - **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✅
@@ -85,6 +88,7 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Two Sum:** [Script](src/leetcode/two_sum.py) ✅
 - **Three Sum:** [Script](src/leetcode/three_sum.py) ✅
 - **Longest substring without repeating characters:** [Script](src/leetcode/longest_substring_without_repeating_characters.py) ✅
+- **Merge Sorted Array:** [Script](src/leetcode/merge_sorted_array.py) ✅
 
 ## How to Contribute
 

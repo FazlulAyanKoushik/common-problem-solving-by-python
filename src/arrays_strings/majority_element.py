@@ -29,10 +29,8 @@ class Solution:
         majority = n / 2
         counts = {num: nums.count(num) for num in set(nums)}
 
-        # Find the element with more than majority count
-        for num, count in counts.items():
-            if count > majority:
-                return num
+        max_num = [num for num, count in counts.items() if count > majority]
+        return max_num[0]
 
 
 if __name__ == '__main__':

@@ -25,8 +25,10 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Find the missing number in an array of integers 2:** [Script](src/arrays_strings/find_missing_number_2.py)  ✅
 - **Find the first missing positive integer in an array:** [Script](src/arrays_strings/first_missing_positive.py)  ✅
 - **Find majority element in an array:** [Script](src/arrays_strings/majority_element.py)  ✅
+- **Find majority element in an array 2:** [Script](src/arrays_strings/majority_element_2.py)  ✅
 - **Implement an algorithm to rotate an array:** [Script](src/arrays_strings/rotate_array.py)  ✅
 - **Check if a string is a palindrome:** [Script](src/arrays_strings/check_palindrome.py)  ✅
+- **Most frequent even integer in an array:** [Script](src/arrays_strings/most_frequent_even_number.py)  ✅
 - **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✅
 - **Implement an algorithm to reverse a linked list:** [Script](arrays_strings/reverse_linked_list.py)
 - **Merge two sorted arrays:** [Script](arrays_strings/merge_sorted_arrays.py)

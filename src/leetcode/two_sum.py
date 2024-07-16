@@ -4,21 +4,25 @@ write a function to determine whether there are two numbers in the list whose su
 If such a pair exists, return True; otherwise, return False.
 """
 
-numbers = [2, 4, 6, 7, 10]
-
-n = 11
+from typing import List
 
 
-def sum_equal_of_n(numbers, n):
+unsorted_list = [10, 15, 3, 7, 4]
+sorted_list = sorted(unsorted_list)
+
+_sum = 11
+
+
+def sum_equal_of_n(numbers: List[int], _sum: int) -> bool:
     """
     Check if there are two numbers in the list whose sum equals 'n'
     """
     for i in numbers:
-        sub = n - i
+        sub = _sum - i
         if sub in numbers:
-            print(f'{i} + {sub} = {n}')
+            print(f'{i} + {sub} = {_sum}')
             return True
     return False
 
 
-print(sum_equal_of_n(numbers, n))
+print(sum_equal_of_n(sorted_list, _sum))

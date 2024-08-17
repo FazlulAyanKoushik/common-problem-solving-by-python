@@ -31,6 +31,7 @@ This repository includes a variety of coding problems and solutions across diffe
 - **Most frequent even integer in an array:** [Script](src/arrays_strings/most_frequent_even_number.py)  ✅
 - **Find the first non-repeating character in a string:** [Script](src/arrays_strings/first_non_repeating_char.py)  ✅
 - **Sort an array without using sorted() or sort():** [Script](src/arrays_strings/sort_a_list_without_using_sort_function.py)  ✅
+- **Find Duplicate Number:** [Script](src/arrays_strings/find_duplicate_and_count.py)  ✅
 - **Merge two sorted arrays:** [Script](arrays_strings/merge_sorted_arrays.py)
 - **Implement a stack using arrays/linked list:** [Script](arrays_strings/stack.py)
 - **Remove duplicates from a sorted array:** [Script](arrays_strings/remove_duplicates_sorted_array.py)
